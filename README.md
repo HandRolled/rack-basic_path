@@ -6,7 +6,7 @@
 
 Install the gem:
 
-`gem install basic_path`
+`gem install rack-basic_path`
 
 Or in your Gemfile:
 
