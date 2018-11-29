@@ -1,6 +1,6 @@
 # coding: utf-8
 Gem::Specification.new do |s|
-  s.name = 'basic_path'
+  s.name = 'rack-basic_path'
   s.version = '0.0.1'
   s.date = '2018-11-29'
   s.authors = ["Jesse Curry"]
